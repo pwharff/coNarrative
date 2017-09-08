@@ -16,8 +16,12 @@
   "bugs": {
     "url": "https://github.com/pwharff/coNarrative/issues"
   },
+  "engines": {
+    "node": "8.4.0"
+  },
   "homepage": "https://github.com/pwharff/coNarrative#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.4"
   }
 }
